@@ -1,6 +1,6 @@
 <?php
 
-namespace marqu3s\summernote;
+namespace gholizadeh\summernote;
 
 use Yii;
 use yii\web\AssetBundle;
@@ -8,7 +8,7 @@ use yii\web\AssetBundle;
 class SummernoteS3Asset extends AssetBundle
 {
     /** @var string */
-    public $sourcePath = '@vendor/marqu3s/yii2-summernote/assets';
+    public $sourcePath = '@vendor/gholizadeh/yii2-summernote/assets';
 
 
 
