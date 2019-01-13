@@ -1,6 +1,6 @@
 {
-    "name": "marqu3s/yii2-summernote",
-    "description": "Yii2 Summernote widget. Super simple WYSIWYG editor on Bootstrap",
+    "name": "gholizadeh/yii2-summernote",
+    "description": "Yii2 Summernote widget. Super simple WYSIWYG editor on Bootstrap 4",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
@@ -8,7 +8,7 @@
         "widget",
         "wysiwyg"
     ],
-    "homepage": "https://github.com/marqu3s/yii2-summernote",
+    "homepage": "https://github.com/gholizadeh/yii2-summernote",
     "time": "2016-01-15",
     "license": "MIT",
     "authors": [
@@ -21,6 +21,11 @@
         {
             "name": "Joao Marques",
             "email": "joao@jjmf.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Saeed Gholizadeh",
+            "email": "gholizade.saeed@yahoo.com",
             "role": "Developer"
         }
     ],
@@ -35,7 +40,7 @@
     },
     "autoload": {
         "psr-4": {
-            "marqu3s\\summernote\\": ""
+            "gholizadeh\\summernote\\": ""
         }
     },
     "extra": {
