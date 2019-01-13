@@ -1,6 +1,6 @@
 <?php
 
-namespace marqu3s\summernote;
+namespace gholizadeh\summernote;
 
 use Yii;
 use yii\web\AssetBundle;
